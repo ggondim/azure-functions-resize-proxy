@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@azure-functions-middlewares/core": "latest",
-    "jimp": "0.6.4"
+    "jimp": "0.22.7"
   },
   "devDependencies": {}
 }
